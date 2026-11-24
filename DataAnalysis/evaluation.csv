@@ -1,0 +1,4 @@
+question,expected_answer,model_answer
+What is Python?,Programming language,Python is a programming language
+What is RAG?,Retrieval Augmented Generation,RAG retrieves relevant documents
+What is an embedding?,Vector representation,Embedding converts text to vectors
